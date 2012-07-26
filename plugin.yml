@@ -1,0 +1,11 @@
+name: EpicLog
+main: com.randomappdev.bukkit.EpicLog.EpicLog
+version: 1.0
+website: github.com/jblaske/EpicLog
+author: jblaske@gmail.com
+description: >
+             Lightweight and Fast logging.
+permissions:
+  epiclog.admin:
+    description: Gives access to admin level commands.
+    default: false
